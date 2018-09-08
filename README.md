@@ -1,3 +1,7 @@
+# ConsumerPolicy
+
+[Consumer Policy](pdf/HolyTechConsumerPolicy.pdf)
+
 # ShadowsocksManual
 Configuration Manual for Shadowsocks
 
